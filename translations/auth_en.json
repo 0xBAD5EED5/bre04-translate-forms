@@ -3,9 +3,18 @@
   "nav_login_link" : "Login",
   "nav_register_link" : "Register",
   "nav_switch_link" : "Switch Language",
+  // Login 
   "login_email_label" : "Email",
   "login_password_label" : "Password",
   "login_submit_button" : "Login",
   "login_register_text" : "You do not yet have an account ?",
   "login_link_text" : "Register here"
+  // Register
+  "register_username_label" : "Choose a username",
+  "register_email_label" : "Enter your email",
+  "register_password_label" : "Choose a password",
+  "register_confirm-password_label" : "Confirm your password",
+  "register_submit_button" : "Register",
+  "register_register_text" : "You already have an account ?",
+  "register_link_text" : "Login here"
 }
